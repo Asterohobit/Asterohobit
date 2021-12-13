@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asterohobit
 - 👀 I’m interested in sports in general as well as the fine art or programming and IT.
-- 🌱 I’m currently learning Python and C/C++, at least I try now and then.
+- 🌱 I’m currently learning Python and C/C++, and studying IT-Systems-Engineering in Potsdam.
 - 💞️ I’m looking to collaborate on open source projects to boost my skills.
 - 📫 You can reach me by calling, if you have my number :)
 
